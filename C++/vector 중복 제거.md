@@ -34,4 +34,6 @@ int main()
 
 <br><br>
 
-[참고](https://dar0m.tistory.com/77)
+참고
+<https://dpdpwl.tistory.com/39>
+<https://dar0m.tistory.com/77>
