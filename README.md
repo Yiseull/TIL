@@ -16,6 +16,8 @@
 + [파이썬 아스키코드 변환 함수 - ord 함수, chr 함수](https://github.com/Yiseull/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%84%EC%8A%A4%ED%82%A4%EC%BD%94%EB%93%9C%20%EB%B3%80%ED%99%98%20%ED%95%A8%EC%88%98%20-%20ord%20%ED%95%A8%EC%88%98%2C%20chr%ED%95%A8%EC%88%98.md)
 + [for문 거꾸로 반복하기](https://github.com/Yiseull/TIL/blob/main/Python/for%EB%AC%B8%20%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.md)
 + [sort()와 sorted()](https://github.com/Yiseull/TIL/blob/main/Python/sort()%EC%99%80%20sorted().md)
++ [메서드 안에서 메서드 호출](https://github.com/Yiseull/TIL/blob/main/Python/%EB%A9%94%EC%84%9C%EB%93%9C%20%EC%95%88%EC%97%90%EC%84%9C%20%EB%A9%94%EC%84%9C%EB%93%9C%20%ED%98%B8%EC%B6%9C.md)
++ [함수(function)와 메서드(method)의 차이점](https://github.com/Yiseull/TIL/blob/main/Python/%ED%95%A8%EC%88%98%EC%99%80%20%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
 ### Spring
 + [@Controller와 @RestController의 차이](https://github.com/Yiseull/TIL/blob/main/Spring/%40Controller%EC%99%80%20%40RestController%20%EC%B0%A8%EC%9D%B4.md)
