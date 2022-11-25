@@ -8,6 +8,9 @@
 
 ## 분류
 
+### Algorithm
++ [소수(Prime Number) 판별 알고리즘](https://github.com/Yiseull/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%86%8C%EC%88%98(Prime%20Number)%20%ED%8C%90%EB%B3%84.md)
+
 ### C++
 + [string 문자열 입력받는 법](https://github.com/Yiseull/TIL/blob/main/C%2B%2B/string%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EB%8A%94%20%EB%B2%95.md)
 + [vector에서 중복 원소를 제거하는 법](https://github.com/Yiseull/TIL/blob/main/C%2B%2B/vector%20%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0.md)
@@ -20,6 +23,9 @@
 + [메서드 안에서 메서드 호출](https://github.com/Yiseull/TIL/blob/main/Python/%EB%A9%94%EC%84%9C%EB%93%9C%20%EC%95%88%EC%97%90%EC%84%9C%20%EB%A9%94%EC%84%9C%EB%93%9C%20%ED%98%B8%EC%B6%9C.md)
 + [함수(function)와 메서드(method)의 차이점](https://github.com/Yiseull/TIL/blob/main/Python/%ED%95%A8%EC%88%98%EC%99%80%20%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 + [객체와 인스턴스 차이](https://github.com/Yiseull/TIL/blob/main/Python/%EA%B0%9D%EC%B2%B4%EC%99%80%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%20%EC%B0%A8%EC%9D%B4.md)
++ [대소문자 확인, 변환](https://github.com/Yiseull/TIL/blob/main/Python/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%ED%99%95%EC%9D%B8%2C%20%EB%B3%80%ED%99%98.md)
++ [collections.Counter](https://github.com/Yiseull/TIL/blob/main/Python/collections.Counter.md)
++ [한 번에 여러 개 입력 받기](https://github.com/Yiseull/TIL/blob/main/Python/%ED%95%9C%20%EB%B2%88%EC%97%90%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%9E%85%EB%A0%A5%20%EB%B0%9B%EA%B8%B0.md)
 
 ### Spring
 + [@Controller와 @RestController의 차이](https://github.com/Yiseull/TIL/blob/main/Spring/%40Controller%EC%99%80%20%40RestController%20%EC%B0%A8%EC%9D%B4.md)
