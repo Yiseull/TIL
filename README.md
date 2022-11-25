@@ -10,6 +10,8 @@
 
 ### Algorithm
 + [소수(Prime Number) 판별 알고리즘](https://github.com/Yiseull/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%86%8C%EC%88%98(Prime%20Number)%20%ED%8C%90%EB%B3%84.md)
++ [브루트 포스(Brute-force) 알고리즘](https://github.com/Yiseull/TIL/blob/main/Algorithm/%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4.md)
++ [시간 복잡도(Time Complexity) 분석](https://github.com/Yiseull/TIL/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84%20%EB%B6%84%EC%84%9D.md)
 
 ### C++
 + [string 문자열 입력받는 법](https://github.com/Yiseull/TIL/blob/main/C%2B%2B/string%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EB%8A%94%20%EB%B2%95.md)
