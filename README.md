@@ -4,8 +4,6 @@
 + 학습한 내용을 정리한다.
 + 잘한 점이나 아쉬웠던 점 등 그 날 하루를 스스로 피드백한다.
 
-<hr>
-
 ## 분류
 
 ### Algorithm
@@ -13,9 +11,13 @@
 + [브루트 포스(Brute-force) 알고리즘](https://github.com/Yiseull/TIL/blob/main/Algorithm/%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4.md)
 + [시간 복잡도(Time Complexity) 분석](https://github.com/Yiseull/TIL/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84%20%EB%B6%84%EC%84%9D.md)
 
+
+
 ### C++
 + [string 문자열 입력받는 법](https://github.com/Yiseull/TIL/blob/main/C%2B%2B/string%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EB%8A%94%20%EB%B2%95.md)
 + [vector에서 중복 원소를 제거하는 법](https://github.com/Yiseull/TIL/blob/main/C%2B%2B/vector%20%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0.md)
+
+
 
 ### Python
 + [파이썬 자료형 별 연산자의 시간 복잡도](https://github.com/Yiseull/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%9E%90%EB%A3%8C%ED%98%95%20%EB%B3%84%20%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98%20%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
@@ -28,6 +30,12 @@
 + [대소문자 확인, 변환](https://github.com/Yiseull/TIL/blob/main/Python/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%ED%99%95%EC%9D%B8%2C%20%EB%B3%80%ED%99%98.md)
 + [collections.Counter](https://github.com/Yiseull/TIL/blob/main/Python/collections.Counter.md)
 + [한 번에 여러 개 입력 받기](https://github.com/Yiseull/TIL/blob/main/Python/%ED%95%9C%20%EB%B2%88%EC%97%90%20%EC%97%AC%EB%9F%AC%20%EA%B0%9C%20%EC%9E%85%EB%A0%A5%20%EB%B0%9B%EA%B8%B0.md)
++ [find(), index() 차이](https://github.com/Yiseull/TIL/blob/main/Python/find()%2C%20index()%20%EC%B0%A8%EC%9D%B4.md)
++ [슬라이싱을 문자열 끝을 기준으로 하는 법](https://github.com/Yiseull/TIL/blob/main/Python/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1%EC%9D%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%81%9D%EC%9D%84%20%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C%20%ED%95%98%EB%8A%94%20%EB%B2%95.md)
++ [양의 무한대(inf), 음의 무한대(-inf) 표시](https://github.com/Yiseull/TIL/blob/main/Python/%EB%AC%B4%ED%95%9C%EB%8C%80%20%ED%91%9C%EC%8B%9C.md)
++ [input() 보다 빠른 sys.stdin.readline()](https://github.com/Yiseull/TIL/blob/main/Python/sys.stdin.readline().md)
+
+
 
 ### Spring
 + [@Controller와 @RestController의 차이](https://github.com/Yiseull/TIL/blob/main/Spring/%40Controller%EC%99%80%20%40RestController%20%EC%B0%A8%EC%9D%B4.md)
