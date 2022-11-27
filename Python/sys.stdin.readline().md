@@ -7,5 +7,6 @@
 import sys
 input = sys.stdin.readline
 
-n = input()
+n, m = map(int, input().split())
+arr = [input().strip() for _ in range(m)]
 ```
