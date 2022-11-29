@@ -36,7 +36,7 @@
 + [input() 보다 빠른 sys.stdin.readline()](https://github.com/Yiseull/TIL/blob/main/Python/sys.stdin.readline().md)
 + [파이썬 입출력 속도 개선](https://github.com/Yiseull/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%9E%85%EC%B6%9C%EB%A0%A5%20%EC%86%8D%EB%8F%84%20%EA%B0%9C%EC%84%A0.md)
 + [파이썬 실행속도 개선](https://github.com/Yiseull/TIL/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%8B%A4%ED%96%89%EC%86%8D%EB%8F%84%20%EA%B0%9C%EC%84%A0.md)
-
++ [collections.defaultdict](https://github.com/Yiseull/TIL/blob/main/Python/collections.defaultdict.md)
 
 
 ### Spring
