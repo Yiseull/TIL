@@ -39,10 +39,18 @@
 + [collections.defaultdict](https://github.com/Yiseull/TIL/blob/main/Python/collections.defaultdict.md)
 
 
+
 ### Spring
 + [@Controller와 @RestController의 차이](https://github.com/Yiseull/TIL/blob/main/Spring/%40Controller%EC%99%80%20%40RestController%20%EC%B0%A8%EC%9D%B4.md)
+
+
 
 ### 마크다운
 + [링크 삽입](https://github.com/Yiseull/TIL/blob/main/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4/%EB%A7%81%ED%81%AC%20%EC%82%BD%EC%9E%85.md)
 + [코드 블록 사용법](https://github.com/Yiseull/TIL/blob/main/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4/%EC%BD%94%EB%93%9C%20%EB%B8%94%EB%A1%9D%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)
 + [표(테이블) 만들기](https://github.com/Yiseull/TIL/blob/main/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4/%ED%91%9C(%ED%85%8C%EC%9D%B4%EB%B8%94)%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+
+
+
+### 알고리즘 문제 풀 때 TIP
++ [배열의 요소의 개수가 고유한지 확인할 때](https://github.com/Yiseull/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%20%EB%95%8C%20TIP/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9A%94%EC%86%8C%EC%9D%98%20%EA%B0%9C%EC%88%98%EA%B0%80%20%EA%B3%A0%EC%9C%A0%ED%95%9C%EC%A7%80%20%ED%99%95%EC%9D%B8%ED%95%A0%20%EB%95%8C.md)
