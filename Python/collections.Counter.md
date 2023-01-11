@@ -65,6 +65,34 @@ print(counter.most_common(2))
 
 (버전 3.10에 추가)
 
+<br>
+
+## 산술/집합 연산
+
+Counter 객체는 다양한 연산이 가능하다.
++ 산술 연산
+    + 덧셈 연산 +
+    + 뺄셈 연산 -
++ 집합 연산
+    + 교집합 &
+    + 합집합 |
+
+```python
+c = Counter(a=3, b=1)
+d = Counter(a=1, b=2)
+
+print(c + d)
+print(c - d)
+print(c & d)
+print(c | d)
+
+# Output
+Counter({'a': 4, 'b': 3})
+Counter({'a': 2})
+Counter({'a': 1, 'b': 1})
+Counter({'a': 3, 'b': 2})
+```
+
 <br><br>
 참고 
 <https://docs.python.org/ko/3/library/collections.html#collections.Counter>
