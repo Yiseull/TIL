@@ -55,6 +55,7 @@
 + [우선순위 큐 - heapq 모듈 사용](https://github.com/Yiseull/TIL/blob/main/Python/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90%20-%20heapq%20%EB%AA%A8%EB%93%88.md)
 + [2차원 리스트 최댓값(max), 최솟값(min) 구하기](https://github.com/Yiseull/TIL/blob/main/Python/2%EC%B0%A8%EC%9B%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B5%9C%EC%86%9F%EA%B0%92%2C%20%EC%B5%9C%EB%8C%93%EA%B0%92.md)
 + [코드 강제 종료 exit()](https://github.com/Yiseull/TIL/blob/main/Python/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%8F%84%EC%A4%91%20%EC%A2%85%EB%A3%8C.md)
++ [앞을 0으로 채우기 zfill()](https://github.com/Yiseull/TIL/blob/main/Python/%EC%95%9E%EC%97%90%200%20%EC%B1%84%EC%9A%B0%EA%B8%B0%20zfill.md)
 
 
 ### Spring
@@ -74,3 +75,4 @@
 + [테스트 케이스의 수가 주어지지 않은 경우](https://github.com/Yiseull/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%20%EB%95%8C%20TIP/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%88%98%EA%B0%80%20%EC%A3%BC%EC%96%B4%EC%A7%80%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B2%BD%EC%9A%B0.md)
 + [두 개의 리스트에서 다른 원소들 찾기](https://github.com/Yiseull/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%20%EB%95%8C%20TIP/%EB%91%90%20%EA%B0%9C%EC%9D%98%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EB%8B%A4%EB%A5%B8%20%EC%9B%90%EC%86%8C%EB%93%A4%20%EC%B0%BE%EA%B8%B0.md)
 + [정답의 한계가 정해져있을 때](https://github.com/Yiseull/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%20%EB%95%8C%20TIP/%EC%A0%95%EB%8B%B5%EC%9D%98%20%ED%95%9C%EA%B3%84%EA%B0%80%20%EC%A0%95%ED%95%B4%EC%A0%B8%EC%9E%88%EC%9D%84%20%EB%95%8C.md)
++ [숫자형 리스트 Unpacking](https://github.com/Yiseull/TIL/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%20%ED%92%80%20%EB%95%8C%20TIP/%EC%88%AB%EC%9E%90%ED%98%95%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20Unpacking.md)
