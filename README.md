@@ -11,6 +11,7 @@
 + [브루트 포스(Brute-force) 알고리즘](https://github.com/Yiseull/TIL/blob/main/Algorithm/%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4.md)
 + [시간 복잡도(Time Complexity) 분석](https://github.com/Yiseull/TIL/blob/main/Algorithm/%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84%20%EB%B6%84%EC%84%9D.md)
 + [배낭 문제(Knapsack Problem)](https://github.com/Yiseull/TIL/blob/main/Algorithm/Knapsack%20Problem.md)
++ [유클리드 호제법으로 최대공약수(GCD) + 최대공배수(LCM) 구하기](https://github.com/Yiseull/TIL/blob/main/Algorithm/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C%20%ED%98%B8%EC%A0%9C%EB%B2%95.md)
 
 
 
@@ -60,6 +61,15 @@
 
 ### Spring
 + [@Controller와 @RestController의 차이](https://github.com/Yiseull/TIL/blob/main/Spring/%40Controller%EC%99%80%20%40RestController%20%EC%B0%A8%EC%9D%B4.md)
+
+
+
+### Tech Interview
++ Web
+    + [GET과 POST 방식의 차이점](https://github.com/Yiseull/TIL/blob/main/Tech%20Interview/Web/GET%EA%B3%BC%20POST%20%EB%B0%A9%EC%8B%9D%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+    + [REST, REST API, RESTful](https://github.com/Yiseull/TIL/blob/main/Tech%20Interview/Web/REST%2C%20REST%20API%2C%20RESTful.md)
++ Spring
+    + [POJO란](https://github.com/Yiseull/TIL/blob/main/Tech%20Interview/POJO%EB%9E%80.md)
 
 
 
