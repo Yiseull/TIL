@@ -57,6 +57,9 @@
 + [2차원 리스트 최댓값(max), 최솟값(min) 구하기](https://github.com/Yiseull/TIL/blob/main/Python/2%EC%B0%A8%EC%9B%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B5%9C%EC%86%9F%EA%B0%92%2C%20%EC%B5%9C%EB%8C%93%EA%B0%92.md)
 + [코드 강제 종료 exit()](https://github.com/Yiseull/TIL/blob/main/Python/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%8F%84%EC%A4%91%20%EC%A2%85%EB%A3%8C.md)
 + [앞을 0으로 채우기 zfill()](https://github.com/Yiseull/TIL/blob/main/Python/%EC%95%9E%EC%97%90%200%20%EC%B1%84%EC%9A%B0%EA%B8%B0%20zfill.md)
++ [itertools 모듈의 조합형 이터레이터](https://github.com/Yiseull/TIL/blob/main/Python/itertools%20%EB%AA%A8%EB%93%88%EC%9D%98%20%EC%A1%B0%ED%95%A9%ED%98%95%20%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0.md)
++ [dict, Counter에서 최댓값 추출하기](https://github.com/Yiseull/TIL/blob/main/Python/dict%2C%20Counter%EC%97%90%EC%84%9C%20%EC%B5%9C%EB%8C%93%EA%B0%92%20%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0.md)
+
 
 
 ### Spring
